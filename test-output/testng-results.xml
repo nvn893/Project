@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T13:05:43 IST" name="Default suite" finished-at="2024-07-13T13:07:38 IST" duration-ms="114699">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T13:05:43 IST" name="Default test" finished-at="2024-07-13T13:07:38 IST" duration-ms="114699">
+      <class name="pom_demoqa.TestRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:43 IST" name="setup" finished-at="2024-07-13T13:05:55 IST" duration-ms="11747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:55 IST" name="setup" finished-at="2024-07-13T13:05:55 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC001_SiteLogin() throws java.io.FileNotFoundException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC001_SiteLogin()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:55 IST" name="TC001_SiteLogin" finished-at="2024-07-13T13:05:57 IST" duration-ms="2045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_SiteLogin -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:57 IST" name="teardown" finished-at="2024-07-13T13:05:57 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC001_SiteLogin status=SUCCESS method=TestRunner.TC001_SiteLogin()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:57 IST" name="setup" finished-at="2024-07-13T13:05:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC002_TextBoxPage() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC002_TextBoxPage()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:05:57 IST" name="TC002_TextBoxPage" finished-at="2024-07-13T13:06:10 IST" duration-ms="12462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002_TextBoxPage -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:10 IST" name="teardown" finished-at="2024-07-13T13:06:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC002_TextBoxPage status=SUCCESS method=TestRunner.TC002_TextBoxPage()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="TC003_CheckBoxPage()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:10 IST" name="TC003_CheckBoxPage" finished-at="2024-07-13T13:06:19 IST" duration-ms="9478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_CheckBoxPage -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:10 IST" name="setup" finished-at="2024-07-13T13:06:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC003_CheckBoxPage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:19 IST" name="teardown" finished-at="2024-07-13T13:06:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC003_CheckBoxPage status=SUCCESS method=TestRunner.TC003_CheckBoxPage()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="TC004_RadioButton()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:19 IST" name="TC004_RadioButton" finished-at="2024-07-13T13:06:20 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004_RadioButton -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:19 IST" name="setup" finished-at="2024-07-13T13:06:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC004_RadioButton() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:20 IST" name="teardown" finished-at="2024-07-13T13:06:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC004_RadioButton status=SUCCESS method=TestRunner.TC004_RadioButton()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:20 IST" name="setup" finished-at="2024-07-13T13:06:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC005_WebTables() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC005_WebTables()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:20 IST" name="TC005_WebTables" finished-at="2024-07-13T13:06:38 IST" duration-ms="17901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005_WebTables -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:38 IST" name="teardown" finished-at="2024-07-13T13:06:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC005_WebTables status=SUCCESS method=TestRunner.TC005_WebTables()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:38 IST" name="setup" finished-at="2024-07-13T13:06:38 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC006_Buttons() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC006_Buttons()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:38 IST" name="TC006_Buttons" finished-at="2024-07-13T13:06:39 IST" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006_Buttons -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:39 IST" name="teardown" finished-at="2024-07-13T13:06:39 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC006_Buttons status=SUCCESS method=TestRunner.TC006_Buttons()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:39 IST" name="setup" finished-at="2024-07-13T13:06:39 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC007_Links() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC007_Links()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:06:39 IST" name="TC007_Links" finished-at="2024-07-13T13:07:11 IST" duration-ms="32105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007_Links -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:11 IST" name="teardown" finished-at="2024-07-13T13:07:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC007_Links status=SUCCESS method=TestRunner.TC007_Links()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:11 IST" name="setup" finished-at="2024-07-13T13:07:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC008_BrokenElements() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC008_BrokenElements()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:11 IST" name="TC008_BrokenElements" finished-at="2024-07-13T13:07:21 IST" duration-ms="10064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008_BrokenElements -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:21 IST" name="teardown" finished-at="2024-07-13T13:07:21 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC008_BrokenElements status=SUCCESS method=TestRunner.TC008_BrokenElements()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:21 IST" name="setup" finished-at="2024-07-13T13:07:21 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC009_UpDownCheck() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC009_UpDownCheck()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:21 IST" name="TC009_UpDownCheck" finished-at="2024-07-13T13:07:28 IST" duration-ms="7275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC009_UpDownCheck -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:28 IST" name="teardown" finished-at="2024-07-13T13:07:28 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC009_UpDownCheck status=SUCCESS method=TestRunner.TC009_UpDownCheck()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:28 IST" name="setup" finished-at="2024-07-13T13:07:28 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom_demoqa.TestRunner.TC010_DynamicPropsCheck() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC010_DynamicPropsCheck()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:28 IST" name="TC010_DynamicPropsCheck" finished-at="2024-07-13T13:07:38 IST" duration-ms="9464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC010_DynamicPropsCheck -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:38 IST" name="teardown" finished-at="2024-07-13T13:07:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC010_DynamicPropsCheck status=SUCCESS method=TestRunner.TC010_DynamicPropsCheck()[pri:0, instance:pom_demoqa.TestRunner@41e68d87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:38 IST" name="teardown" finished-at="2024-07-13T13:07:38 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardownsuite()[pri:0, instance:pom_demoqa.TestRunner@41e68d87]" started-at="2024-07-13T13:07:38 IST" name="teardownsuite" finished-at="2024-07-13T13:07:39 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsuite -->
+      </class> <!-- pom_demoqa.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
